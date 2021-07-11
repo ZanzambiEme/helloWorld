@@ -1,2 +1,3 @@
 # helloWorld
-Leraning github
+Leranin´ github
+Just learnin and nothin´ more
